@@ -1,7 +1,6 @@
 
-<p align="center">
 ![gradeHub](https://github.com/KawsarAhmad43/GradeHub/assets/54704888/52ffdadd-84ed-4589-8cb6-8aead2107f60)
-</p>
+
 
 ## About Laravel
 
